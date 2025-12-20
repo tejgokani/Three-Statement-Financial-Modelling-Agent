@@ -1,0 +1,13 @@
+{
+  "revenue_growth": 0.05,
+  "gross_margin": 0.40,
+  "opex_ratio": 0.20,
+  "dso": 30,
+  "dio": 45,
+  "dpo": 30,
+  "capex_ratio": 0.10,
+  "depreciation_rate": 0.05,
+  "tax_rate": 0.25,
+  "interest_rate": 0.05
+}
+

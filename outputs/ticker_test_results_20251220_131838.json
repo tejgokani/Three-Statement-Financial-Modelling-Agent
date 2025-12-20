@@ -1,0 +1,412 @@
+{
+  "successful": [
+    {
+      "ticker": "AAPL",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 94930000000.0
+    },
+    {
+      "ticker": "MSFT",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 65585000000.0
+    },
+    {
+      "ticker": "GOOGL",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 88268000000.0
+    },
+    {
+      "ticker": "GOOG",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 88268000000.0
+    },
+    {
+      "ticker": "AMZN",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 158877000000.0
+    },
+    {
+      "ticker": "META",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 40589000000.0
+    },
+    {
+      "ticker": "NVDA",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 35082000000.0
+    },
+    {
+      "ticker": "TSLA",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 25182000000.0
+    },
+    {
+      "ticker": "NFLX",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 9824703000.0
+    },
+    {
+      "ticker": "AMD",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 6819000000.0
+    },
+    {
+      "ticker": "INTC",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 13284000000.0
+    },
+    {
+      "ticker": "ORCL",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 14059000000.0
+    },
+    {
+      "ticker": "CRM",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 9444000000.0
+    },
+    {
+      "ticker": "ADBE",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 5408000000.0
+    },
+    {
+      "ticker": "NOW",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 2797000000.0
+    },
+    {
+      "ticker": "CRWD",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 1010178000.0
+    },
+    {
+      "ticker": "ZS",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 627955000.0
+    },
+    {
+      "ticker": "PANW",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 2139000000.0
+    },
+    {
+      "ticker": "JPM",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 42656000000.0
+    },
+    {
+      "ticker": "BAC",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 25345000000.0
+    },
+    {
+      "ticker": "WFC",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 20366000000.0
+    },
+    {
+      "ticker": "C",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 20159000000.0
+    },
+    {
+      "ticker": "GS",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 12699000000.0
+    },
+    {
+      "ticker": "BLK",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 5197000000.0
+    },
+    {
+      "ticker": "SCHW",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 4847000000.0
+    },
+    {
+      "ticker": "COF",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 10014000000.0
+    },
+    {
+      "ticker": "V",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 9617000000.0
+    },
+    {
+      "ticker": "MA",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 7369000000.0
+    },
+    {
+      "ticker": "PYPL",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 7847000000.0
+    },
+    {
+      "ticker": "HOOD",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 637000000.0
+    },
+    {
+      "ticker": "AFRM",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 698479000.0
+    },
+    {
+      "ticker": "UPST",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 162140000.0
+    },
+    {
+      "ticker": "LC",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 201881000.0
+    },
+    {
+      "ticker": "NU",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 2096449000.0
+    },
+    {
+      "ticker": "UNH",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 100820000000.0
+    },
+    {
+      "ticker": "PFE",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 17701000000.0
+    },
+    {
+      "ticker": "ABT",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 10635000000.0
+    },
+    {
+      "ticker": "TMO",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 10598000000.0
+    },
+    {
+      "ticker": "ABBV",
+      "message": "Success",
+      "periods_loaded": 5,
+      "periods_projected": 4,
+      "warnings": [],
+      "last_revenue": 14460000000.0
+    }
+  ],
+  "failed": [
+    {
+      "ticker": "SNOW",
+      "message": "Validation errors",
+      "errors": [
+        "Cash balance is critically negative: -1915223779.94",
+        "Cash balance is critically negative: -1859487345.31",
+        "Cash balance is critically negative: -1800964088.95",
+        "Cash balance is critically negative: -1739514669.77"
+      ],
+      "warnings": []
+    },
+    {
+      "ticker": "PLTR",
+      "message": "Validation errors",
+      "errors": [
+        "Cash balance is critically negative: -801930663.80",
+        "Cash balance is critically negative: -759007478.75",
+        "Cash balance is critically negative: -713938134.43",
+        "Cash balance is critically negative: -666615322.90"
+      ],
+      "warnings": []
+    },
+    {
+      "ticker": "MS",
+      "message": "RuntimeError",
+      "error": "Failed to load Balance Sheet for MS: Balance Sheet: Missing value for 'PP&E' in period 2025-Q3. This period may have incomplete data. Available periods with data: ['2024-Q4']. Please try a different ticker or check if MS has complete financial statements.. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "AXP",
+      "message": "RuntimeError",
+      "error": "Failed to load Balance Sheet for AXP: Balance Sheet: Could not find required columns in yfinance data: {'Accounts Receivable'}.\n   This ticker (AXP) may not have standard financial statements.\n   Available columns: 51 total\n   Please try a different ticker with complete financial statements (e.g., AAPL, MSFT, GOOGL, JPM, JNJ).. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "SQ",
+      "message": "RuntimeError",
+      "error": "Failed to load Income Statement for SQ: Could not fetch income statement data for SQ. The ticker may not exist or may not have financial data available.. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "SOFI",
+      "message": "RuntimeError",
+      "error": "Failed to load Balance Sheet for SOFI: Balance Sheet: Missing value for 'Accounts Receivable' in period 2025-Q3. This period may have incomplete data. Available periods with data: ['2024-Q4']. Please try a different ticker or check if SOFI has complete financial statements.. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "JNJ",
+      "message": "RuntimeError",
+      "error": "Failed to load Balance Sheet for JNJ: Balance Sheet: Could not find required columns in yfinance data: {'Retained Earnings'}.\n   This ticker (JNJ) may not have standard financial statements.\n   Available columns: 71 total\n   Similar columns found:\n     - Retained Earnings: Gains Losses Not Affecting Retained Earnings\n   Please try a different ticker with complete financial statements (e.g., AAPL, MSFT, GOOGL, JPM, JNJ).. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "MRK",
+      "message": "RuntimeError",
+      "error": "Failed to load Income Statement for MRK: Could not fetch income statement data for MRK. The ticker may not exist or may not have financial data available.. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "BMY",
+      "message": "RuntimeError",
+      "error": "Failed to load Income Statement for BMY: Could not fetch income statement data for BMY. The ticker may not exist or may not have financial data available.. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "LLY",
+      "message": "RuntimeError",
+      "error": "Failed to load Income Statement for LLY: Could not fetch income statement data for LLY. The ticker may not exist or may not have financial data available.. The company may not have sufficient financial data available."
+    },
+    {
+      "ticker": "GILD",
+      "message": "RuntimeError",
+      "error": "Failed to load Income Statement for GILD: Could not fetch income statement data for GILD. The ticker may not exist or may not have financial data available.. The company may not have sufficient financial data available."
+    }
+  ],
+  "errors": {
+    "Validation errors": [
+      "SNOW",
+      "PLTR"
+    ],
+    "RuntimeError": [
+      "MS",
+      "AXP",
+      "SQ",
+      "SOFI",
+      "JNJ",
+      "MRK",
+      "BMY",
+      "LLY",
+      "GILD"
+    ]
+  },
+  "statistics": {
+    "total_tested": 50,
+    "successful": 39,
+    "failed": 11,
+    "success_rate": 78.0,
+    "error_breakdown": {
+      "Validation errors": 2,
+      "RuntimeError": 9
+    }
+  }
+}
