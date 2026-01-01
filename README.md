@@ -701,3 +701,6 @@ For issues, questions, or contributions, please open an issue on the repository.
 ---
 
 **Built with ❤️ for transparent, auditable financial modeling**
+
+
+<!-- Updated via Git Committer -->
