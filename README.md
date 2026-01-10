@@ -704,3 +704,7 @@ For issues, questions, or contributions, please open an issue on the repository.
 
 
 <!-- Updated via Git Committer -->
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
